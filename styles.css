@@ -1,0 +1,72 @@
+
+body{
+  font-family: 'Bai Jamjuree', sans-serif;
+   text-align: center;
+
+}
+img{
+  max-width: 100%;
+ height: auto;
+}
+h1{
+  font-size: 4rem;
+}
+h2{font-size: 2.5rem;
+  margin-top: 5%;
+}
+.header{
+  background-image: url(images/bg-header-desktop.png);
+  max-width: 100%;
+  height: auto;
+  padding-top: 7%;
+  margin-bottom: 5%;
+}
+
+.logo{
+  margin-bottom: 5%;
+}
+.center{
+  text-align:center;
+}
+.download{
+  margin: 5px;
+}
+.second-section{
+  text-align:center;
+}
+.third-section{
+  margin-bottom: 10%;
+}
+.feature{
+  margin-bottom: 20%;
+  margin-top: 11%;
+
+}
+.feature-1{
+  margin-bottom: 5%;
+}
+.feature-2{
+  margin-bottom: 5%;
+}
+.device{
+  padding: 7% 0;
+}
+.sub-features{
+  padding-top: 5%;
+  padding-bottom: 7%;
+}
+p{
+  color: #888888;
+
+}
+.footer{
+  color: black;
+  padding-top: 30px;
+  margin-top: 10%;
+  padding-bottom: 1px;
+
+  background-color: #f0f0f0;
+}
+.footer-logo{
+  width: 100px;
+}
